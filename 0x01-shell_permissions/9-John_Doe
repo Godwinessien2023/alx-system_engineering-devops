@@ -1,2 +1,2 @@
 #!/bin/bas
-chmod -R +x
+sudo chmod -R +x
